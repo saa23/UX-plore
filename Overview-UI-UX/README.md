@@ -63,3 +63,33 @@ Visual design that will be seen by users. The target is visual elements such as 
 
 
 ### II. Usability
+Usability = how easy the user interface is to use.
+
+Usability is part of UX and one of the important aspects that affects user retention.
+
+There are five components of usability:
+1. Learnability <br>
+How easy the user can complete tasks to meet goals the first time they use it.
+2. Efficiency <br>
+After the user is able to grasp how the product works by completing a task, then how quickly the user is able to do the next task.
+3. Memorability <br>
+When users have not used the product for while, how easy it is for them to re-establish fluency when interacting with the product 
+4. Error <br>
+How many errors did the user make, how fatal were the errors, and how easy was it for the user to find the solution.
+5. Satisfaction <br>
+How happy the user is when interacting with the product
+
+
+### III. UX Honeycomb
+
+
+
+### IV. Five Dimension of interaction Design
+
+
+
+### V. Double Diamond
+
+
+
+### VI. Design Thinking
