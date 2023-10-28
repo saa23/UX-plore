@@ -32,3 +32,34 @@ Therefore, in developing UX design, it is necessary to find the optimal point be
 
 ## 2. UX Fundamental
 
+### I. Elements of UX design 
+<p align="left">
+    <img height="400" src="images/element-ux-design.png">
+</p>
+
+UX design = steps to turn ideas into products.
+
+There are five elements of UX design.<br>
+Starts from the most abstract layer to the most concrete as following:
+1.	Strategy <br>
+The basis of the design goal.
+The targets are user needs and business objectives
+Action Items can be: user research.
+
+2.	Scope <br>
+The domain is the definition of the product scope.
+The target is functional specification & content requirements where development refers to user needs defined in the previous element.
+
+3.	Structure <br>
+Setup user and product interaction design.
+The target is information architecture & Interaction Design.
+
+4.	Skeleton <br>
+Related to product layout/product display framework.
+The targets are navigation design, interface design, & information design.
+
+5.	Surface <br>
+Visual design that will be seen by users. The target is visual elements such as images, colors, illustrations, icons, animations, and etc.
+
+
+### II. Usability
