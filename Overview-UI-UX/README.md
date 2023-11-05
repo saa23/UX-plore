@@ -82,6 +82,43 @@ How happy the user is when interacting with the product
 
 ### III. UX Honeycomb
 
+<p align="left">
+    <img height="400"  width="400" src="images/honeycomb.png">
+</p>
+Peter Morville, represents the essence of UX, namely ensuring users find value from what we give them through UX Honeycomb.
+
+Those values are following:
+1. Useful
+
+Provide a purpose for its customers
+
+2. Valuable
+
+Give value to users
+
+3. Credible
+
+Ability to trust in the product
+
+4. Desirable
+
+Conveyed through branding, image, identity, aesthetics, and emotional design
+
+5. Findable
+
+Ensures the product and its content are easy to find
+
+6. Usable
+
+Enable users to effectively and efficiently achieve their end objective
+
+7. Accessible
+
+Provides a UX which can be accessed by users of a full range of abilities
+
+> To determine which honeycomb value need to be prioritized depends on **context, content and users**.
+
+
 
 
 ### IV. Five Dimension of interaction Design
