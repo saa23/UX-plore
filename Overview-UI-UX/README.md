@@ -116,12 +116,26 @@ Enable users to effectively and efficiently achieve their end objective
 
 Provides a UX which can be accessed by users of a full range of abilities
 
-> To determine which honeycomb value need to be prioritized depends on **context, content and users**.
+> To determine which honeycomb value need to be prioritized depends on the **context, content, and users**.
 
 
 
 
-### IV. Five Dimension of interaction Design
+### IV. Information and interaction Design
+**Information Design**
+
+How each piece of information is grouped with other information so that users are able to digest the information easily.
+
+
+**Interaction Design**
+
+The interactions that occur between users and the product.
+There are five dimension of interaction design as follows:
+1. Words
+2. Visual representation
+3. Physical objects or space
+4. Time  
+5. Behaviour
 
 
 
